@@ -3,22 +3,22 @@
 **Home Loan Finance** is a full-stack loan application management platform that allows users to apply for loans, upload documents, track application status, view sanction letters, and more. This repository contains the **Angular frontend**.
 
 > 🔗 **Backend Repo**: [Home_loan_Finance Backend](https://github.com/spuffyffets/Home_loan_Finance.git)  
-> 🔗 **Frontend Repo**: [Loan Management System Frontend](https://github.com/spuffyffets/loan-management-system.git)
+> 🔗 **Frontend Repo**: [Home_loan_Finance Frontend](https://github.com/spuffyffets/loan-management-system.git)
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 **User Registration and Login**  
-- 💼 **Loan Application Management**  
-- 📄 **Document Upload and Tracking**  
-- 📊 **View Application Status and Sanction Letters**  
-- 🛠️ **Role-based Features** (e.g., Customer, Disbursement Manager)  
-- 🔄 Responsive UI with real-time feedback  
+-  **User Registration and Login**  
+-  **Loan Application Management**  
+-  **Document Upload and Tracking**  
+-  **View Application Status and Sanction Letters**  
+- 🛠**Role-based Features** (e.g., Customer, Disbursement Manager)  
+- Responsive UI with real-time feedback  
 
 ---
 
-## 🧑‍💻 Technologies Used
+##  Technologies Used
 
 - **Frontend**: Angular 16.x  
 - **Backend**: Spring Boot, Hibernate  
@@ -32,7 +32,7 @@
 ## 📂 Project Structure
 
 ```bash
-loan-management-system/
+Home Loan Finance(Frontend)/
  ├── README.md
  ├── angular.json
  ├── package.json
@@ -63,9 +63,9 @@ loan-management-system/
 
 ```
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
-### ✅ Prerequisites
+### Prerequisites
 - 🟢 Node.js & npm installed  
 - 🟢 Angular CLI installed:
 
@@ -107,5 +107,5 @@ Spring Boot app runs on: http://localhost:8080/ (Check Port no:- in application.
 
 ## ✍️ Author
 
-Suchit Chaudhari
-📧 suchitchaudhari17@gmail.com
+Vishal Shinde
+📧 vishalshinde3465@gmail.com
